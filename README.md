@@ -26,6 +26,18 @@ DB_PORT=5432
 3) run `docker-compose up`
 4) visit `http://localhost:8000`
 
+## Running seed
+Instructions on how to seed data can be seen here https://github.com/rrviloria/raymund-pizza/wiki/Running-seed
+
+
+## Running tests
+Instructions on how to seed data can be seen here https://github.com/rrviloria/raymund-pizza/wiki/Running-tests
+
+
+## GrahpQL APIs
+Instructions on how to query GraphQL Pizza APIs can be seen here https://github.com/rrviloria/raymund-pizza/wiki/Query-GraphQL-APIs
+
+
 ## Additional information
 
 Package versions are specified in Dockerfile / Pipfile and this is just for refference, but containerised application is using:
