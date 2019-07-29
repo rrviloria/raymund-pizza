@@ -7,7 +7,7 @@ This is the main repository for Raymund's Pizzas
 
 This was initially created using:
 
-* MacOs
+* MacOs version 10.12.6
 * Docker version 17.12.0
 * docker-compose version 1.18.0
 
