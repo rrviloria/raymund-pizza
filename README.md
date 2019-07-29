@@ -7,8 +7,8 @@ This is the main repository for Raymund's Pizzas
 
 This was initially created using:
 
-* Docker version 18.09.2
-* docker-compose version 1.23.2
+* Docker version 17.12.0
+* docker-compose version 1.18.0
 
 
 1) Clone this repo

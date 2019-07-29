@@ -1,5 +1,5 @@
 #!/bin/sh
-# seed.sh
+# run-seed.sh
 
 echo "Eating all pizzas, yummy"
 docker exec -it pizza_web_1 pipenv run python manage.py flush --no-input
