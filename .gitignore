@@ -8,6 +8,3 @@ postgres-data/
 .vscode/
 .idea/
 
-
-# Enviroment variables
-.env
