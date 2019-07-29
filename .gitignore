@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.pyc
+postgres-data/
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# Enviroment variables
+.env

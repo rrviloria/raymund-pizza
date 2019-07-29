@@ -1,0 +1,20 @@
+[[source]] # Here goes your package sources (where you are downloading your packages from).
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages] # Here goes your package requirements for running the application and its versions (which packages you will use when running the application).
+django = "==2.2.3"  # use latest version
+psycopg2 = "==2.8.3"
+# for ./manage.py shell_plus --ipython:
+django-extensions = "==2.2.1"
+ipython = "==7.6.1"
+graphene-django = "==2.4.0"
+django-graphql-jwt = "==0.2.1"
+gunicorn = "==19.9.0"
+django-seed = "*"
+
+[dev-packages] # Here goes your package requirements for developing the application and its versions (which packaes you will use when developing the application)
+ipdb = "*"
+flake8 = "*"
+autopep8 = "*"
